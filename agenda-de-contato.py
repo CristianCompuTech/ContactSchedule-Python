@@ -1,6 +1,7 @@
 from interface import * #Importa funções do arquivo "interface.py"
 from funcoes import * #Importa funções do arquivo "funcoes.py"
 from time import sleep #Importa função "sleep" da biblioteca "time"
+
 cabecalho("AGENDA DE CONTATOS")
 
 #Checa pela existência do arquivo
