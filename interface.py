@@ -2,7 +2,6 @@
 def linha():
     print("\033[1m=\033[m" * 43)
 
-
 #Cria um cabeçalho
 def cabecalho(msg = "<vazio>"):
     linha()
