@@ -8,6 +8,7 @@ def arquivo_existencia(nome):
     else:
         return True
 
+    
 #Cria o arquivo (caso não exista)
 def criar_arquivo(nome):
     try:
