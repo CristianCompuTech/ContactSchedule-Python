@@ -1,6 +1,6 @@
-# ContactSchedule-Python
+# ContactBook-Python
 ***
-Agenda de contatos simples em TXT (feita em Python). // Simple TXT contact schedule (made in Python).
+Agenda de contatos simples em TXT (feita em Python). // Simple TXT contact book (made in Python).
 ***
 Aqui você pode ver o código rodando. // Here you can see the code running.
 
